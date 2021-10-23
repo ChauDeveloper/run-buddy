@@ -225,15 +225,13 @@ header {
   }
   
   .trainer img {
-    width: 35%;
-    float: left;
+    width: 100%;
+    
   }
   
   .trainer-bio {
     line-height: 1.3;
-    padding: 35px;
-    float: left;
-    width: 65%;
+    padding: 25px;
   }
 
   .text-left {
