@@ -78,6 +78,7 @@ background-position: 80%;
   }
   /* Hero Style Start */
 .hero {
+
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -101,6 +102,13 @@ background-position: 80%;
   font-size: 55px;
   color: var(--primary-color);
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+    background-image: url("./hero-bg.jpg");
+    height: 600px; 
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
 }
 
   /* Hero Style End */
